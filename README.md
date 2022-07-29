@@ -1,6 +1,7 @@
 # DinksMenu
 ## Dataset Description:
-	The data shows Menu of Drinks with its ingredients. There are 242 observation with 18 variables for each Drink
+The data shows Menu of Drinks with its ingredients. 
+There are 242 observation with 18 variables for each Drink
 
 ## Research Questions
   •	Q1- Which drink has the highest calories from the dataset?
